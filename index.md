@@ -12,5 +12,8 @@ layout: default
 
 {% include 03-links.md %}
 
+{% include 05-emphasis.md %}
+=======
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
