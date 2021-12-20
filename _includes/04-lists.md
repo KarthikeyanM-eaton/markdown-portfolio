@@ -1,9 +1,16 @@
- *This text will be italic*
-_This will also be italic_
+# List 1
+# List 2
+# List 3
+### List 1a
+### List 1b
+### List 1c
 
-**This text will be bold**
-__This will also be bold__
-
+* List 1
+* List 2
+* List 3
+   * List 1a
+   * List 1b
+   * List 1c
 
 
 
